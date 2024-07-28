@@ -13,19 +13,3 @@ Zenbase AI is transforming how developers ship with AI. Our flagship product, Ze
 ## Our Mission
 
 We aim to revolutionize AI prompt engineering and optimize AI workflows across various industries, empowering developers and companies to enhance their AI capabilities efficiently.
-
-## Founders
-
-- Cyrus Nouroozi
-- Amir Mehr
-
-Both are key contributors to StanfordNLP's DSPy project and have extensive experience in AI and consulting.
-
-## Get Involved
-
-- [Star our repositories](https://github.com/zenbase-ai)
-- [Visit our website](https://zenbase.ai)
-
----
-
-Zenbase AI - Empowering developers to build better AI, faster.
