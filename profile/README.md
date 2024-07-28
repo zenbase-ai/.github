@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <div>
     <a href="#"><img src="https://img.shields.io/badge/Y%20Combinator-S24-orange?style=flat-square" alt="Y Combinator S24"></a>
   </div>
