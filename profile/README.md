@@ -1,7 +1,4 @@
 <div align="center">
-  <div>
-    <a href="#"><img src="https://img.shields.io/badge/Y%20Combinator-S24-orange?style=flat-square" alt="Y Combinator S24"></a>
-  </div>
   <h1>Zenbase AI</h1>
   <p>Automating prompt engineering for production AI</p>
   <div>
@@ -16,10 +13,6 @@ Zenbase AI is transforming how developers ship with AI. Our flagship product, Ze
 ## Our Mission
 
 We aim to revolutionize AI prompt engineering and optimize AI workflows across various industries, empowering developers and companies to enhance their AI capabilities efficiently.
-
-## Our Projects
-
-- [Zenbase Core](https://github.com/zenbase-ai/core) - Our open-source SDK for automated prompt engineering in production environments.
 
 ## Founders
 
